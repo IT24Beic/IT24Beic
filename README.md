@@ -2,20 +2,24 @@
 
 ### Hobby Developer
 
-Backend enthusiast exploring practical projects, architecture, and software design.
+I’m a backend-focused developer with experience in SAP and ABAP, and I enjoy building practical software with modern technologies.
+
+My current favorite language and ecosystem is TypeScript, and I also work with C# and ABAP in different contexts.
 
 - 🔭 Currently building: a TypeScript Kanban board
-- 🌱 Exploring: a SMART sensor project
+- 🌱 Exploring: a SMART project with sensors
 - 💡 Main focus: backend development
-- ⭐ Favorite project: Currency Calculator
+- ⭐ Favorite stack: TypeScript
+- 🧩 Background: SAP and ABAP
 
 ---
 
 ## Skills
 
 - TypeScript
-- Java
-- Python
+- C#
+- ABAP
+- SAP
 - Backend Development
 - APIs
 - Software Design
@@ -23,35 +27,45 @@ Backend enthusiast exploring practical projects, architecture, and software desi
 
 ---
 
+## Experience
+
+### SAP / ABAP
+I previously worked with SAP and used ABAP in professional development contexts. This gave me a strong foundation in structured, business-oriented software development.
+
+### Modern Development
+I enjoy working with TypeScript and building clean, maintainable software that is practical and useful.
+
+---
+
 ## Projects
 
-Most of my projects are private and not hosted online, but here are a few I’m actively working on:
+Most of my projects are private and not currently hosted online, but here are a few current areas of focus:
 
 ### Currency Calculator
-A practical project focused on calculating and managing currency values.
+A practical project focused on currency calculations and data handling.
 
 ### Kanban Board
-A TypeScript-based task management app for organizing workflows.
+A TypeScript-based task management project for organizing workflows.
 
 ### SMART Sensor Project
-An experimental project exploring sensor-driven ideas and smart systems.
+An experimental project focused on sensor data and smart systems.
 
 ---
 
 ## Interests
 
-- Backend systems
+- Backend development
 - APIs and architecture
-- Data processing
+- System design
 - Automation
-- Smart technology
-- Building useful tools
+- Smart systems
+- Learning through practical projects
 
 ---
 
 ## Currently Learning
 
-I’m improving my understanding of backend development, software structure, and creating useful, well-designed applications.
+I’m continuing to improve my TypeScript skills while also exploring backend architecture and building useful applications from real-world ideas.
 
 <p align="center">
   Building, learning, and improving one project at a time.
