@@ -1,71 +1,73 @@
 # Benedikt
 
-### Hobby Developer
+### Hobby Developer · Backend Enthusiast
 
-I’m a backend-focused developer with experience in SAP and ABAP, and I enjoy building practical software with modern technologies.
+I’m a hobby developer with a background in **SAP and ABAP**. I enjoy building practical software and exploring backend development with modern technologies.
 
-My current favorite language and ecosystem is TypeScript, and I also work with C# and ABAP in different contexts.
-
-- 🔭 Currently building: a TypeScript Kanban board
-- 🌱 Exploring: a SMART project with sensors
-- 💡 Main focus: backend development
-- ⭐ Favorite stack: TypeScript
-- 🧩 Background: SAP and ABAP
+My current favorite language and framework ecosystem is **TypeScript**. I also have experience with **C#**, **Java**, and **Python**.
 
 ---
 
-## Skills
+## About Me
 
-- TypeScript
-- C#
-- ABAP
-- SAP
-- Backend Development
-- APIs
-- Software Design
-- Problem Solving
+- 🧩 Previously worked with **SAP and ABAP**
+- ⭐ Currently focused on **TypeScript**
+- ⚙️ Interested in **backend development and APIs**
+- 📡 Exploring smart systems with sensors
+- 🔒 Most of my projects are private and not hosted online
 
 ---
 
-## Experience
+## Tech Stack
 
-### SAP / ABAP
-I previously worked with SAP and used ABAP in professional development contexts. This gave me a strong foundation in structured, business-oriented software development.
-
-### Modern Development
-I enjoy working with TypeScript and building clean, maintainable software that is practical and useful.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-008FD3?style=flat-square&logo=sap&logoColor=white)
 
 ---
 
 ## Projects
 
-Most of my projects are private and not currently hosted online, but here are a few current areas of focus:
-
 ### Currency Calculator
-A practical project focused on currency calculations and data handling.
+
+A currency calculator that uses an API to retrieve exchange-rate data and perform currency conversions.
+
+**Focus:** API integration · Data handling · TypeScript
 
 ### Kanban Board
-A TypeScript-based task management project for organizing workflows.
+
+A TypeScript-based Kanban board for organizing tasks and workflows.
+
+> 🚧 Currently in development and not finished yet.
+
+**Focus:** TypeScript · Application structure · Task management
 
 ### SMART Sensor Project
-An experimental project focused on sensor data and smart systems.
+
+An experimental project exploring sensors, smart systems, and the possibilities of connected devices.
+
+> 🔬 Currently exploring the concept and implementation.
 
 ---
 
 ## Interests
 
 - Backend development
-- APIs and architecture
-- System design
+- APIs and integrations
+- Software architecture
+- Data processing
 - Automation
-- Smart systems
-- Learning through practical projects
+- Smart systems and sensors
+- Practical software projects
 
 ---
 
 ## Currently Learning
 
-I’m continuing to improve my TypeScript skills while also exploring backend architecture and building useful applications from real-world ideas.
+I’m currently improving my TypeScript skills, developing my Kanban board, and exploring backend architecture through practical projects.
 
 <p align="center">
   Building, learning, and improving one project at a time.
