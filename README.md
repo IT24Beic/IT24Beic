@@ -37,7 +37,7 @@ A TypeScript-based Kanban board for organizing tasks and workflows in a team-ori
 
 [GitHub Repository](https://github.com/IT24Beic/Kanban-Board)
 
-> ✅ This project is complete and selected as one of my main showcase projects.
+> ✅ The project already works and is usable. I am still implementing new features and improvements.
 
 **Focus:** TypeScript · Team workflows · Task management
 
