@@ -29,27 +29,37 @@ My current favorite language and framework ecosystem is **TypeScript**. I also h
 
 ---
 
-## Projects
-
-### Currency Calculator
-
-A currency calculator that uses an API to retrieve exchange-rate data and perform currency conversions.
-
-**Focus:** API integration · Data handling · TypeScript
+## Showcase Projects
 
 ### Kanban Board
 
-A TypeScript-based Kanban board for organizing tasks and workflows.
+A TypeScript-based Kanban board for organizing tasks and workflows in a team-oriented environment.
 
-> 🚧 Currently in development and not finished yet.
+[GitHub Repository](https://github.com/IT24Beic/Kanban-Board)
 
-**Focus:** TypeScript · Application structure · Task management
+> ✅ This project is complete and selected as one of my main showcase projects.
+
+**Focus:** TypeScript · Team workflows · Task management
+
+### RFID-KIT
+
+An RFID/NFC-based access control project focused on smart identification and contactless entry systems.
+
+[GitHub Repository](https://github.com/IT24Beic/RFID-KIT)
+
+> ⚠️ This project is still in progress and not complete yet.
+
+**Focus:** Python · RFID/NFC · Smart access control
 
 ### SMART Sensor Project
 
-An experimental project exploring sensors, smart systems, and the possibilities of connected devices.
+An experimental project exploring sensors, smart systems, and connected devices.
 
-> 🔬 Currently exploring the concept and implementation.
+**Repository:** SMART
+
+> ⚠️ This project is still in progress and not complete yet.
+
+**Focus:** Smart systems · Sensors · IoT experimentation
 
 ---
 
@@ -67,7 +77,7 @@ An experimental project exploring sensors, smart systems, and the possibilities 
 
 ## Currently Learning
 
-I’m currently improving my TypeScript skills, developing my Kanban board, and exploring backend architecture through practical projects.
+I’m currently improving my TypeScript skills, developing practical backend solutions, and exploring smart systems through hands-on projects.
 
 <p align="center">
   Building, learning, and improving one project at a time.
